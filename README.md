@@ -1,4 +1,6 @@
-## Hi there 👋
+## 👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81">IT Professional</a>!
+
+
 
 <!--
 **charlessweet81/charlessweet81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
