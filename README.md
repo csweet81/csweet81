@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81">IT Professional</a>!
+## 👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!
 
 
 
