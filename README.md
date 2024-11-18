@@ -1,13 +1,14 @@
 ## <H1>👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!</H1>
 <hr>
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-
+<b>osTicket (Help Desk Ticketing System)</b>
+<ul>[osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  <li>[osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)</li>
+  <li>[osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)</li>
+</ul>
+<ul><b>Microsoft Azure</b></ul>
+<li>[Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)</li>
+<li>[Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)</li>
+</ul>
 
 <h2>🤳Connect with me:</h2>
 
