@@ -1,4 +1,4 @@
-## 👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!
+## <H1>👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!</H1>
 <hr>
 <H2>Information Technology Projects:</H2>
 <ul>osTicket (Help Desk Ticketing System)
