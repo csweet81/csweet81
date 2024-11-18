@@ -1,15 +1,14 @@
 ## <H1>👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!</H1>
 <hr>
-<H2>Information Technology Projects:</H2>
-<ul>osTicket (Help Desk Ticketing System)
-<li>osTicket: Prerequisites and Installation<li>
-<li>osTicket: Post-Installation Configuration<li>
-<li>osTicket: Ticket Lifecycle Examples<li>
-</ul>
-<ul>Microsoft Azure
-<li>Configuring On-premises Active Directory within Azure VMs</li>
-<li>Network Security Groups (NSGs) and Inspecting Network Protocols</li>
-</ul>
+<h2>Information Technology Projects:</h2>
+- osTicket (Help Desk Ticketing System)
+  - osTicket: Prerequisites and Installation<li>
+  - osTicket: Post-Installation Configuration<li>
+  - osTicket: Ticket Lifecycle Examples<li>
+
+<h2>Microsoft Azure</h2>
+  - Configuring On-premises Active Directory within Azure VMs
+  - Network Security Groups (NSGs) and Inspecting Network Protocols
 
 
 
