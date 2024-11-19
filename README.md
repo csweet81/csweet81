@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Set Up & Configuring Microsoft Azure for Virtual Machines](https://github.com/charlessweet81/azure-setup)
+  - [Set Up & Deploying Virtual Machines](https://github.com/charlessweet81/azure-setup)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
