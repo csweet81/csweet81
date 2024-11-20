@@ -1,5 +1,6 @@
-## <H1>👋 Hi! I'm Charles, an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a>!</H1>
-<hr>
+## <H1>👋 Hi - I'm Charles!</H1>
+
+<h3>I'm an <a href="https://linkedin.com/in/csweet81" target="_blank">IT Professional</a> who specializes in helpdesk support.</h3>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
