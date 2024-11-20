@@ -5,7 +5,11 @@
 
 - <b>Microsoft Azure</b>
   - [Deploying Windows & Linux Virtual Machines](https://github.com/charlessweet81/azure-setup)
-  - [Internet Control Message Protocol (ICMP) Traffic Monitoring and Analysis](https://github.com/charlessweet81/azure-network-protocols)
+  - Traffic Monitoring and Analysis
+    - [Observing SSH Traffic](https://github.com/charlessweet81/azure-network-protocols)
+    - [Observing DHCP Traffic](https://github.com/charlessweet81/azure-network-protocols)
+    - [Observing DNS Traffic](https://github.com/charlessweet81/azure-network-protocols)
+    - [Observing RDP Traffic](https://github.com/charlessweet81/azure-network-protocols)
   - [Configuring Firewalls via Network Security Groups (NSGs)](https://github.com/charlessweet81/firewall-testing)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
