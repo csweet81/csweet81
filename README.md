@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Set Up & Deploying Virtual Machines](https://github.com/charlessweet81/azure-setup)
+  - [Deploying Windows & Linux Virtual Machines](https://github.com/charlessweet81/azure-setup)
   - [ICMP Traffic Monitoring and Analysis](https://github.com/charlessweet81/azure-network-protocols)
   - [Setting Up & Testing Network Security Groups (NSGs) via Firewalls](https://github.com/charlessweet81/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
