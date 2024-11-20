@@ -7,7 +7,7 @@
 - <b>Microsoft Azure</b>
   - [Deploying Windows & Linux Virtual Machines](https://github.com/charlessweet81/azure-setup)
   - Traffic Monitoring and Analysis
-    - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
+  - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
   - [Configuring Firewalls via Network Security Groups (NSGs)](https://github.com/charlessweet81/firewall-testing)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
