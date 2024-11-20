@@ -5,7 +5,8 @@
 
 - <b>Microsoft Azure</b>
   - [Set Up & Deploying Virtual Machines](https://github.com/charlessweet81/azure-setup)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/charlessweet81/azure-network-protocols)
+  - [Inspecting Network Protocols](https://github.com/charlessweet81/azure-network-protocols)
+  - [Setting Up & Testing Network Security Groups (NSGs) via Firewalls (https://github.com/charlessweet81/azure-network-protocols)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
