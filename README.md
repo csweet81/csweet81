@@ -14,7 +14,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [ProtonVPN: Prerequisites and Installation](https://github.com/charlessweet1/protonvpn-prereqs)
+  - [ProtonVPN: Prerequisites and Installation](https://github.com/charlessweet1/vpn-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Active Directory</b>
