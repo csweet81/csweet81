@@ -10,9 +10,9 @@
   - [Configuring Network Security Groups (NSGs) Firewalls](https://github.com/charlessweet81/firewall-testing)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Installation & Configuring](https://github.com/charlessweet1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Installation & Configuring](https://github.com/charlessweet1/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
+  - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Installation & Configuring via Virtual Machine](https://github.com/charlessweet81/vpn-prereqs)
 - <b>Active Directory</b>
