@@ -14,9 +14,9 @@
   - [Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
   - [Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Installation & Configuring a VPN via Remote Desktop](https://github.com/charlessweet81/vpn-prereqs)
+  - [Deploying a VPN via Remote Desktop](https://github.com/charlessweet81/vpn-prereqs)
 - <b>Active Directory</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
+  - [Installation & Configuring](https://github.com/charlessweet81/ad-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Domain Naming System (DNS)</b>
