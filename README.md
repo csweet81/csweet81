@@ -1,7 +1,5 @@
 ## <H1>👋 Hi - I'm Charles!</H1>
 
-<h3>This is where I share my learnings.</h3>
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
