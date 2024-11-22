@@ -3,9 +3,9 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Deploying Virtual Machines from Azure](https://github.com/charlessweet81/azure-setup)
+  - [Installation & Deployment of Virtual Machines](https://github.com/charlessweet81/azure-setup)
   - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
-  - [Configuring Network Security Groups (NSGs) Firewalls](https://github.com/charlessweet81/firewall-testing)
+  - [Configuring Firewalls of Network Security Groups (NSGs)](https://github.com/charlessweet81/firewall-testing)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installation & Configuring](https://github.com/charlessweet1/osticket-prereqs)
@@ -14,8 +14,8 @@
 - <b>Virtual Private Networks (VPNs)</b>
   - [Deploying a VPN via Remote Desktop](https://github.com/charlessweet81/vpn-prereqs)
 - <b>Active Directory</b>
-  - [Installation & Configuring](https://github.com/charlessweet81/ad-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [Active Directory: Install & Configuration of Infrastructure](https://github.com/charlessweet81/ad-prereqs)
+  - [Active Directory: Post-Installation Configuration](https://github.com/charlessweet81/ad-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Domain Naming System (DNS)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
