@@ -16,6 +16,7 @@
   - [Installation & Configuring Infrastructure](https://github.com/charlessweet81/ad-prereqs)
   - [Post-Installation Configuration](https://github.com/charlessweet81/ad-post-install-config)
   - [Creating New Users](https://github.com/charlessweet81/ad-creating-users)
+  - [Group Policy & Managing Accounts](https://github.com/charlessweet81/ad-group-policy)
 - <b>Domain Naming System (DNS)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
