@@ -15,7 +15,7 @@
 - <b>Active Directory</b>
   - [Installation & Configuring Infrastructure](https://github.com/charlessweet81/ad-prereqs)
   - [Post-Installation Configuration](https://github.com/charlessweet81/ad-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Creating New Users](https://github.com/charlessweet81/ad-creating-users)
 - <b>Domain Naming System (DNS)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
