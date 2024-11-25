@@ -19,16 +19,9 @@
   - [Group Policy & Managing Accounts](https://github.com/charlessweet81/ad-group-policy)
 - <b>Domain Naming System (DNS)</b>
   - [A, Local DNS Caching & CNAME Records](https://github.com/charlessweet81/dns-lab)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>Network File Shares & Permissions</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/charlessweet1/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [osTicket: Prerequisites and Installation](https://github.com/charlessweet81/network-file-sharing)
 
-
-
-  
 
 <h2>🤳Connect with me:</h2>
 
