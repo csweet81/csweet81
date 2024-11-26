@@ -2,6 +2,8 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+<p>Welcome to my portfolio of projects. Here's where I share everything I'm learning and documenting along the way.</p>
+
 - <b>Microsoft Azure</b>
   - [Installation & Deployment of Virtual Machines via Microsoft Azure](https://github.com/charlessweet81/azure-setup)
   - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
@@ -17,7 +19,7 @@
   - [Post-Installation Configuration](https://github.com/charlessweet81/ad-post-install-config)
   - [Creating New Active Directory Users via Powershell](https://github.com/charlessweet81/ad-creating-users)
   - [Group Policy & Managing Accounts](https://github.com/charlessweet81/ad-group-policy)
-- <b>Domain Naming System (DNS)</b>
+- <b>Exploring Azure and Networking Concepts(DNS)</b>
   - [A, Local DNS Caching & CNAME Records](https://github.com/charlessweet81/dns-lab)
 - <b>Network File Shares & Permissions</b>
   - [osTicket: Prerequisites and Installation](https://github.com/charlessweet81/network-file-sharing)
