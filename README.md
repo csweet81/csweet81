@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Installation & Deployment of Virtual Machines](https://github.com/charlessweet81/azure-setup)
+  - [Installation & Deployment of Virtual Machines via Microsoft Azure](https://github.com/charlessweet81/azure-setup)
   - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
   - [Configuring Firewalls of Network Security Groups (NSGs)](https://github.com/charlessweet81/firewall-testing)
 - <b>osTicket (Help Desk Ticketing System)</b>
