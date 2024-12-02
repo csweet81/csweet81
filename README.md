@@ -1,5 +1,5 @@
 ## <H1>👋 Hi - I'm Charles!</H1>
-<p>Welcome to my portfolio of homelab projects. Here's where I document what I'm learning along the way.</p>
+<h3>Welcome to my portfolio of homelab projects. Here's where I Replicate corporate IT ecosystems in a non-prod environment for self-training purposes.</h3>
 <h2>👨‍💻 IT Projects & Labs</h2>
 
 
