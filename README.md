@@ -10,7 +10,7 @@
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [Installation & Configuring](https://github.com/charlessweet1/osticket-prereqs)
   - [Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
-  - [Example Ticket Lifecycle](https://github.com/joshmadakorcc/ticket-lifecycle)
+  - [Example Ticket Lifecycle](https://github.com/charlessweet81/ticket-lifecycle)
 - <b>Virtual Private Networks (VPNs)</b>
   - [Deploying a VPN via Remote Desktop](https://github.com/charlessweet81/vpn-prereqs)
 - <b>Active Directory</b>
