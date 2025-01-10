@@ -21,7 +21,7 @@
 - <b>Exploring Azure and Networking Concepts(DNS)</b>
   - [A, Local DNS Caching & CNAME Records](https://github.com/csweet81/dns-lab)
 - <b>Network File Shares & Permissions</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/csweet81/network-file-sharing)
+  - [Configure Network Connections and Test Functionality](https://github.com/csweet81/network-file-sharing)
 
 
 <h2>🤳Connect with me:</h2>
