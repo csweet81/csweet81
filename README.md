@@ -4,24 +4,24 @@
 
 
 - <b>Microsoft Azure</b>
-  - [Installation & Deployment of Virtual Machines via Microsoft Azure](https://github.com/charlessweet81/azure-setup)
-  - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/charlessweet81/azure-network-protocols)
-  - [Configuring Firewalls of Network Security Groups (NSGs)](https://github.com/charlessweet81/firewall-testing)
+  - [Installation & Deployment of Virtual Machines via Microsoft Azure](https://github.com/csweet81/azure-setup)
+  - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/csweet81/azure-network-protocols)
+  - [Configuring Firewalls of Network Security Groups (NSGs)](https://github.com/csweet81/firewall-testing)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Installation & Configuring](https://github.com/charlessweet1/osticket-prereqs)
-  - [Post-Installation Configuration](https://github.com/charlessweet81/post-install-config)
-  - [Example Ticket Lifecycle](https://github.com/charlessweet81/ticket-lifecycle)
+  - [Installation & Configuring](https://github.com/csweet1/osticket-prereqs)
+  - [Post-Installation Configuration](https://github.com/csweet81/post-install-config)
+  - [Example Ticket Lifecycle](https://github.com/csweet81/ticket-lifecycle)
 - <b>Virtual Private Networks (VPNs)</b>
-  - [Deploying a VPN via Remote Desktop](https://github.com/charlessweet81/vpn-prereqs)
+  - [Deploying a VPN via Remote Desktop](https://github.com/csweet81/vpn-prereqs)
 - <b>Active Directory</b>
-  - [Installation & Configuring Infrastructure](https://github.com/charlessweet81/ad-prereqs)
-  - [Post-Installation Configuration](https://github.com/charlessweet81/ad-post-install-config)
-  - [Creating New Active Directory Users via Powershell](https://github.com/charlessweet81/ad-creating-users)
-  - [Group Policy & Managing Accounts](https://github.com/charlessweet81/ad-group-policy)
+  - [Installation & Configuring Infrastructure](https://github.com/csweet81/ad-prereqs)
+  - [Post-Installation Configuration](https://github.com/csweet81/ad-post-install-config)
+  - [Creating New Active Directory Users via Powershell](https://github.com/csweet81/ad-creating-users)
+  - [Group Policy & Managing Accounts](https://github.com/csweet81/ad-group-policy)
 - <b>Exploring Azure and Networking Concepts(DNS)</b>
-  - [A, Local DNS Caching & CNAME Records](https://github.com/charlessweet81/dns-lab)
+  - [A, Local DNS Caching & CNAME Records](https://github.com/csweet81/dns-lab)
 - <b>Network File Shares & Permissions</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/charlessweet81/network-file-sharing)
+  - [osTicket: Prerequisites and Installation](https://github.com/csweet81/network-file-sharing)
 
 
 <h2>🤳Connect with me:</h2>
