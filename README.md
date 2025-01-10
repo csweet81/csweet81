@@ -1,4 +1,4 @@
-## <H1>👋 Hi - I'm Charles!</H1>
+## <H1>👋 Hi - I'm Charles, an [IT Professional](https://linkedin.com/in/csweet81)!☺</H1>
 <h4>Welcome to my portfolio of homelab projects. Here's where I replicate corporate IT ecosystems in a non-prod environment for self-training purposes.</h4>
 <h2>👨‍💻 IT Projects & Labs</h2>
 
