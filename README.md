@@ -7,7 +7,7 @@
   - [Installation & Deployment of Virtual Machines via Microsoft Azure](https://github.com/csweet81/azure-setup)
   - [Monitoring Network Traffic using Wireshark & Powershell](https://github.com/csweet81/azure-network-protocols)
   - [Configuring Firewalls of Network Security Groups (NSGs)](https://github.com/csweet81/firewall-testing)
- <b>Active Directory</b>
+ - <b>Active Directory</b>
   - [Installation & Configuring Infrastructure](https://github.com/csweet81/ad-prereqs)
   - [Post-Installation Configuration](https://github.com/csweet81/ad-post-install-config)
   - [Creating New Active Directory Users via Powershell](https://github.com/csweet81/ad-creating-users)
