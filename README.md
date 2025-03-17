@@ -1,6 +1,6 @@
-## <H1>👋 Hi - I'm Charles, an [IT Professional](https://linkedin.com/in/csweet81)!☺</H1>
+## <H1>👋 Hi - I'm Charles, an [IT Professional] with over 5 years' experience. (https://linkedin.com/in/csweet81)!☺</H1>
 <h4>Welcome to my personal knowledge base where I replicate corporate IT scenarios in a non-prod environment for self-training purposes.</h4>
-<h2>👨‍💻 IT Projects & Labs</h2>
+<h2>IT Projects & Labs</h2>
 
 
 - <b>Microsoft Azure</b>
